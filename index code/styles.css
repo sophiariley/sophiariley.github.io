@@ -1,5 +1,5 @@
 body{
-    background: azure;
+    background: #D4F3FF;
     font-family:Arial, Helvetica, sans-serif;
 }
 
@@ -10,11 +10,16 @@ body{
 
 .assignment img{
     padding: 10px;
-    background: lightgray;
+    background: #71A0B3;
     margin: 10px;
 }
 
 h1{
     color: darkslategray;
     text-align: center;
+}
+
+a{
+    text-decoration:none;
+    color: #725721;
 }
