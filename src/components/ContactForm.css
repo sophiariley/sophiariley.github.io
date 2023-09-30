@@ -1,0 +1,82 @@
+.contactForm {
+    width: 100%;
+    margin-top: 40px;
+    padding: 0 2.5rem;
+}
+
+li {
+        padding: 6px;
+        margin: 0px;
+        list-style-type: none;
+        margin-bottom: 10px;
+        overflow: hidden;
+        display: block;
+        position: relative;
+        clear: both;
+}
+
+li.half {
+    width: 48.75%;
+    margin-left: 1%;
+    float: left;
+    clear: none;
+
+    &:first-child {
+        margin: 0;
+    }
+}
+
+input[type="text"], input[type="email"] {
+    width: 97%;
+    border: 2px solid #FBDAE0;
+    border-radius: 5px;
+    height: 50px;
+    font-size: 1rem;
+    font-family: "Alexandria";
+    color: #625555;
+    padding: 0 1rem;
+    box-sizing: border-box;
+}
+
+textarea{
+    width: 97%;
+    border: 2px solid #FBDAE0;
+    border-radius: 5px;
+    height: 80px;
+    min-height: 160px;
+    font-size: 1rem;
+    padding: 1rem;
+    font-family: "Alexandria";
+    color: #625555;
+    box-sizing: border-box;
+}
+
+textarea:focus, input:focus {
+    outline-color: #625555;
+}
+
+.submitButton {
+    background-color: #FBDAE0;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    padding: 1rem;
+    font-family: "Alexandria";
+    color: #625555;
+    letter-spacing: .5px;
+    float: right;
+    margin-right: 40px;
+    transition: .5s ease;
+
+}
+
+.submitButton:hover {
+    transform: scale(1.1);
+    transition: .5s ease;
+    border-radius: 5px;
+}
+
+.submitButton:active {
+    background-color: #F391A1;
+    border-radius: 5px;
+}

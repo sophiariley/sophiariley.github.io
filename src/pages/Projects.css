@@ -1,0 +1,126 @@
+@font-face {
+    font-family: "Akaya Kanadaka";
+    src: url(../assets/fonts/AkayaKanadaka-Regular.ttf);
+  }
+
+  @font-face {
+    font-family: "Alexandria";
+    src: url(../assets/fonts/Alexandria-VariableFont_wght.ttf);
+  }
+
+/* ----------------------------- */
+
+.projectContainer{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5%;
+}
+
+.rightContainer {
+    align-self: flex-end;
+    padding: 0 5rem;
+    width: 50%;
+    position: relative;
+    bottom: 7rem;
+    margin-bottom: -17rem;
+    padding-bottom: 50px;
+    transform: scale(1);
+    transition: transform .5s ease-out;
+}
+
+.leftContainer {
+    align-self: flex-start;
+    padding: 0 5rem;
+    width: 50%;
+    position: relative;
+    /* padding-bottom: 10px; */
+    transform: scale(1);
+    transition: transform .5s ease-out;
+}
+
+.projectName {
+    padding: 0 3rem;
+    padding-top: 2rem;
+    font-family: "Akaya Kanadaka";
+    font-size: min(6vh);
+    font-weight: 200;
+    color: #F391A1;
+}
+
+.text {
+    font-family: "Alexandria";
+    color: #625555;
+    padding: 0 3rem;
+    font-size: min(2.5vh);
+}
+
+.background{
+    background-image: url('../assets/images/border.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-width: 80vw;
+    min-height: 60vh;
+    z-index: 1;
+}
+
+.textContainer {
+    width: 50%
+}
+
+.link {
+    color: #F391A1;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.leftContainer:hover, .rightContainer:hover {
+    transform: scale(1.1);
+    transition: transform .5s ease;
+}
+
+.doubleFlowerContainer {
+    position: relative;
+    z-index: 1;
+}
+
+.doubleFlower {
+    position: absolute;
+    width: 25%;
+    display: block;
+    right: 150px;
+    top: 30px;
+}
+
+
+.opaque {
+    display: block;
+    background: #f7f7f7;
+}
+
+.leftSquiggleContainer {
+    position: relative;
+    z-index: -1;
+}
+.leftSquiggle {
+    position: absolute;
+    width: 860px;
+    height: 300px;
+    display: block;
+    right: 0;
+    top: 5rem;
+    transform: scaleX(-1)
+}
+
+.squiggleContainer {
+    position: relative;
+    z-index: -1;
+}
+
+.squiggle {
+    position: absolute;
+    width: 860px;
+    height: 300px;
+    display: block;
+    left: 0;
+    bottom: -7rem;
+}

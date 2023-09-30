@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+@font-face {
+    font-family: "Akaya Kanadaka";
+    src: url(../assets/fonts/AkayaKanadaka-Regular.ttf);
+  }
+
+  @font-face {
+    font-family: "Alexandria";
+    src: url(../assets/fonts/Alexandria-VariableFont_wght.ttf);
+  }
+
+
+/* Styling for navbar: */
+.nav {
+    background-color: #f7f7f7;
+    color: #F391A1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    padding: 0 5rem;
+    padding-top: 1rem;
+}
+
+/* Styling for site title */
+.site-title {
+    font-family: "Akaya Kanadaka";
+    font-size: 3.5rem;
+}
+
+/* Styling for unordered list elements: */
+.nav ul {
+    font-family: "Alexandria";
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    gap: 5rem;
+    font-size: 1.5rem;
+}
+
+/* Styling for anchor tags: */
+.nav a{
+    color: inherit;
+    text-decoration: none;
+}
+
+/* Styling of hover: */
+.nav li:hover {
+    color: #FBDAE0;
+    transition: 0.3s;
+}
+
+/* Styling of active list element: */
+.nav li.active {
+    color: #FBDAE0;
+}

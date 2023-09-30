@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Akaya Kanadaka";
+    src: url(./assets/fonts/AkayaKanadaka-Regular.ttf);
+  }
+
+  @font-face {
+    font-family: "Alexandria";
+    src: url(./assets/fonts/Alexandria-VariableFont_wght.ttf);
+  }
+
+  html, body {
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+body {
+    margin: 0;
+    background-color: #f7f7f7;
+}
+
+/* ----------------------------- */
+
+

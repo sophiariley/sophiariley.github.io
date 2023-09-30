@@ -1,0 +1,73 @@
+@font-face {
+    font-family: "Akaya Kanadaka";
+    src: url(../assets/fonts/AkayaKanadaka-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Alexandria";
+    src: url(../assets/fonts/Alexandria-VariableFont_wght.ttf);
+}
+
+/* --------------------------------------------------------- */
+
+.logo {
+    width:50%; 
+    padding-top: 5rem;
+    display: block;
+    margin: auto;
+}
+
+.title {
+    margin: 0;
+    background-color: #f7f7f7;
+    font-family: "Akaya Kanadaka";
+    font-size: 2.75rem;
+    font-weight: 200;
+    color: #F391A1;
+    padding: 0 3rem;
+    padding-top: 5rem;
+}
+
+.line{
+    border-bottom: 2px solid #FBDAE0;
+    position: relative;
+    left: 3rem;
+    width: 30rem;
+    top: 10px;
+}
+
+.textAndPic {
+    display: flex;
+    flex-direction: row;
+}
+
+.leftText {
+    margin: 0;
+    font-family: "Alexandria";
+    color: #625555;
+    padding: 0 3rem;
+    font-size: 1.5rem;
+    width: 100%;
+}
+
+.headshot {
+    width: 100%;
+    float: right;
+    top: -200px;
+    right: -100px;
+    position: relative;
+    z-index:1;
+    
+}
+
+.testt {
+    position: relative;
+}
+
+.rainbowCorner {
+    width: 20%;
+    position:absolute;
+    bottom: -68.75rem;
+    right:-1px;
+    display: block;
+}

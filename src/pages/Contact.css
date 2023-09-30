@@ -1,0 +1,94 @@
+.textHeader {
+    margin: 0;
+    background-color: #f7f7f7;
+    font-family: "Akaya Kanadaka";
+    font-size: 2.75rem;
+    font-weight: 200;
+    color: #F391A1;
+    padding: 0 5rem;
+    padding-top: 5rem;
+}
+
+.contactLine {
+    border-bottom: 2px solid #FBDAE0;
+    position: relative;
+    left: 5rem;
+    width: 20rem;
+    top: 10px;
+}
+
+.textBody {
+    margin: 0;
+    font-family: "Alexandria";
+    color: #625555;
+    padding: 0 5rem;
+    font-size: 1.5rem;
+    width: 80%;
+    margin-top: 20px;
+}
+
+.contactForm {
+    width: 100%;
+    margin-top: 20px;
+    padding: 0 2.5rem;
+}
+
+li {
+        padding: 0px;
+        margin: 0px;
+        list-style-type: none;
+        margin-bottom: 10px;
+        overflow: hidden;
+        display: block;
+        position: relative;
+        clear: both;
+}
+
+li.half {
+    width: 49%;
+    margin-left: 2%;
+    float: left;
+    clear: none;
+
+    &:first-child {
+        margin: 0;
+    }
+}
+
+input[type="text"], input[type="email"] {
+    width: 100%;
+    border: 2px solid #FBDAE0;
+    border-radius: 5px;
+    height: 50px;
+    font-size: 1rem;
+    font-family: "Alexandria";
+    color: #625555;
+    padding: 0 1rem;
+    box-sizing: border-box;
+}
+
+textarea{
+    width: 100%;
+    border: 2px solid #FBDAE0;
+    border-radius: 5px;
+    height: 80px;
+    min-height: 160px;
+    font-size: 1rem;
+    padding: 1rem;
+    font-family: "Alexandria";
+    color: #625555;
+    box-sizing: border-box;
+}
+
+.submitButton {
+    background-color: #FBDAE0;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    padding: 1rem;
+    font-family: "Alexandria";
+    color: #625555;
+    letter-spacing: .5px;
+    float: right;
+
+}
