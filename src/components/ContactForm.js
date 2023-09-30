@@ -1,6 +1,8 @@
 import React, { useRef } from 'react';
 import emailjs from '@emailjs/browser';
-import './ContactForm.css'
+import './ContactForm.css';
+import {FaLinkedin} from "react-icons/fa";
+import { SiHandshake } from "react-icons/si";
 
 export const ContactForm = () => {
   const form = useRef();
@@ -58,6 +60,21 @@ export const ContactForm = () => {
             <li>
                 <input type="submit" className = "submitButton" value="Submit"/>
             </li>
+
+            <div className="iconsContainer">
+                <li>
+                    <a href="https://www.linkedin.com/in/sophia-riley/">
+                        <FaLinkedin className="linkedIn" size= "50"/>
+                    </a>
+                </li>
+                        
+                <li>
+                    <a href="https://app.joinhandshake.com/stu/users/26824802">
+                        <SiHandshake className="handshake" size= "45"/>
+                    </a>
+                </li>
+            </div>
+            
         </ul>
     </form>
   );
