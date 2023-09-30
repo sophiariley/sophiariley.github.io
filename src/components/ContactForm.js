@@ -74,7 +74,6 @@ export const ContactForm = () => {
                     </a>
                 </li>
             </div>
-            
         </ul>
     </form>
   );

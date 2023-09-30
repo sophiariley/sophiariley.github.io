@@ -11,8 +11,8 @@
 /* --------------------------------------------------------- */
 
 .logo {
-    width:50%; 
-    padding-top: 5rem;
+    width:30%; 
+    padding-top: 4rem;
     display: block;
     margin: auto;
 }
@@ -51,10 +51,10 @@
 }
 
 .headshot {
-    width: 100%;
+    width: 80%;
     float: right;
-    top: -200px;
-    right: -100px;
+    top: -125px;
+    right: -50px;
     position: relative;
     z-index:1;
     
@@ -62,12 +62,38 @@
 
 .testt {
     position: relative;
+    /* height: 100%; */
+    bottom: 20px;
 }
 
 .rainbowCorner {
     width: 20%;
     position:absolute;
-    bottom: -68.75rem;
+    bottom: -75rem;
     right:-1px;
     display: block;
 }
+
+/* .testt {
+    position: relative;
+    flex-direction: row;
+    display: flex;
+    padding: 10px;
+    bottom: 20px;
+    left: 5rem;
+    float: right;
+    right: 3rem;
+} 
+
+.linkedIn {
+    position: relative;
+    bottom: -68.75rem;
+    color:#F391A1;
+}
+
+.handshake {
+    position: relative;
+    bottom: -68.75rem;
+    left: 2rem;
+    color:#F391A1;
+} */

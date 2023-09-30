@@ -1,11 +1,13 @@
 import "./Home.css";
 import React from "react";
 import { ReactDOM } from "react";
-import Logo from "../assets/images/logo.png"
-import Headshot from "../assets/images/headshot.png"
+import Logo from "../assets/images/logo 2.png"
+import Headshot from "../assets/images/piccy.png"
 import Rainbow from "../assets/images/rainbow.png"
 // import Cowgal from "../assets/images/cowgal.png"
 import CustomizedTimeline from "../components/Timeline";
+import {FaLinkedin} from "react-icons/fa";
+import { SiHandshake } from "react-icons/si";
 
 export default function Home() {
     return (
@@ -29,10 +31,18 @@ export default function Home() {
             </div>
             <div>
                 <CustomizedTimeline/>
-                <div className="testt">
+                {/* <div className="testt">
+                    <img src={Rainbow} className="rainbowCorner"/>
+                </div> */}
+                
+            </div>
+            <div className="testt">
                 <img src={Rainbow} className="rainbowCorner"/>
             </div>
-            </div>
+            {/* <div className="testt">
+                <FaLinkedin className="linkedIn"/>
+                <SiHandshake className="handshake"/>
+            </div> */}
         </>
     )
 }
