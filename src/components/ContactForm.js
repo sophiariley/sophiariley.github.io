@@ -56,14 +56,8 @@ export const ContactForm = () => {
                     required
                 />
             </li>
-
-            {/* <li>
-                <input type="submit" className = "submitButton" value="Submit"/>
-            </li> */}
         </ul>
-        {/* <div>
-            <input type="submit" className = "submitButton" value="Submit"/>
-        </div> */}
+        
         <div className="iconsContainer">
             <a href="https://www.linkedin.com/in/sophia-riley/" target="_blank">
                 <FaLinkedin className="linkedIn" size= "55"/>
