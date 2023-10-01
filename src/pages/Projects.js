@@ -1,6 +1,5 @@
 import "./Projects.css";
 import Squiggle from "../assets/images/squiggle.png"
-import PinkFlower from "../assets/images/pink flower.png"
 
 export default function Projects() {
     return (

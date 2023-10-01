@@ -1,6 +1,5 @@
 import { VerticalTimeline, VerticalTimelineElement }  from 'react-vertical-timeline-component';
 import React from 'react';
-// import 'react-vertical-timeline-component/style.min.css';
 import './Timeline.css'
 import { PiAmazonLogoBold, PiBrainBold, PiRainbowBold, PiGlobeBold, PiDevicesBold } from "react-icons/pi";
 
