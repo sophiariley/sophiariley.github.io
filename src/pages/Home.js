@@ -1,13 +1,10 @@
 import "./Home.css";
 import React from "react";
-import { ReactDOM } from "react";
 import Logo from "../assets/images/logo 3.png"
 import Headshot from "../assets/images/headshot.png"
 import Rainbow from "../assets/images/rainbow.png"
 // import Cowgal from "../assets/images/cowgal.png"
 import CustomizedTimeline from "../components/Timeline";
-import {FaLinkedin} from "react-icons/fa";
-import { SiHandshake } from "react-icons/si";
 
 export default function Home() {
     return (
