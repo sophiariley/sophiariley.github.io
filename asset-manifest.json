@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.09f3d78b.css",
-    "main.js": "/static/js/main.9128432e.js",
+    "main.css": "/static/css/main.9a1b7e99.css",
+    "main.js": "/static/js/main.aaa1477c.js",
     "static/media/headshot.png": "/static/media/headshot.45a03a540656bb255bfd.png",
     "static/media/AkayaKanadaka-Regular.ttf": "/static/media/AkayaKanadaka-Regular.00285b03cbbe370b4c8a.ttf",
     "static/media/Alexandria-VariableFont_wght.ttf": "/static/media/Alexandria-VariableFont_wght.48122b6566da6755bd70.ttf",
-    "static/media/logo.png": "/static/media/logo.bd4b5d7479c308d0f431.png",
+    "static/media/logo 3.png": "/static/media/logo 3.dda1db5fd8cc849f0550.png",
     "static/media/pink flower.png": "/static/media/pink flower.fd05b92993c96f3c40c4.png",
     "static/media/rainbow.png": "/static/media/rainbow.5fa6a41f975176738f66.png",
     "static/media/squiggle.png": "/static/media/squiggle.9274219cfc5ab376b71f.png",
     "static/media/border.png": "/static/media/border.15324a91eb0e9dc7ca00.png",
     "index.html": "/index.html",
-    "main.09f3d78b.css.map": "/static/css/main.09f3d78b.css.map",
-    "main.9128432e.js.map": "/static/js/main.9128432e.js.map"
+    "main.9a1b7e99.css.map": "/static/css/main.9a1b7e99.css.map",
+    "main.aaa1477c.js.map": "/static/js/main.aaa1477c.js.map"
   },
   "entrypoints": [
-    "static/css/main.09f3d78b.css",
-    "static/js/main.9128432e.js"
+    "static/css/main.9a1b7e99.css",
+    "static/js/main.aaa1477c.js"
   ]
 }
