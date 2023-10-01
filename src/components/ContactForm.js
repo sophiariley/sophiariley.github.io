@@ -1,4 +1,4 @@
-import React, { useRef } from 'react';
+import React, { useRef, button } from 'react';
 import emailjs from '@emailjs/browser';
 import './ContactForm.css';
 import {FaLinkedin} from "react-icons/fa";
@@ -57,24 +57,22 @@ export const ContactForm = () => {
                 />
             </li>
 
-            <li>
+            {/* <li>
                 <input type="submit" className = "submitButton" value="Submit"/>
-            </li>
-
-            <div className="iconsContainer">
-                <li>
-                    <a href="https://www.linkedin.com/in/sophia-riley/">
-                        <FaLinkedin className="linkedIn" size= "50"/>
-                    </a>
-                </li>
-                        
-                <li>
-                    <a href="https://app.joinhandshake.com/stu/users/26824802">
-                        <SiHandshake className="handshake" size= "45"/>
-                    </a>
-                </li>
-            </div>
+            </li> */}
         </ul>
+        {/* <div>
+            <input type="submit" className = "submitButton" value="Submit"/>
+        </div> */}
+        <div className="iconsContainer">
+            <a href="https://www.linkedin.com/in/sophia-riley/" target="_blank">
+                <FaLinkedin className="linkedIn" size= "55"/>
+            </a>
+            <a href="https://app.joinhandshake.com/stu/users/26824802" target="_blank">
+                    <SiHandshake className="handshake" size= "50"/>
+            </a>
+            <input type="submit" className = "submitButton" value="Submit"/>
+        </div>
     </form>
   );
 };

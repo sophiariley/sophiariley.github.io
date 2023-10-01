@@ -22,11 +22,13 @@ export default function Projects() {
                                     James T. McCain was an educator, civil rights leader, Field Director in CORE, and member of the NAACP from my home 
                                     state of South Carolina. The South Caroliniana Library transcribed McCain's day planner from 1961, which detailed the work
                                     he accomplished for the betterment of Civil Rights in the nation and state during the year. I delivered a new
-                                    visual identity and built a new website for this collection using <a href="https://scalar.me/anvc/scalar/" className="link">Scalar</a>.
+                                    visual identity and built a new website for this collection using <a href="https://scalar.me/anvc/scalar/" 
+                                    className="link" target="_blank">Scalar</a>.
                                 </p>
 
                                 <p className="text">
-                                    Find the project <a href="http://grahamduncan.usccreate.org/james-t-mccain/home/index" className="link">here</a>!
+                                    Find the project <a href="http://grahamduncan.usccreate.org/james-t-mccain/home/index" className="link" 
+                                    target="_blank">here</a>!
                                 </p>
                             </div>
                         </div>
@@ -40,12 +42,14 @@ export default function Projects() {
                                 The primary objective of the Digital Campaigns Project is to establish an enduring source of data by archiving 
                                 campaign websites belonging to state-level elected officials. To acheive this, I collaborated closely with Dr.
                                 Joshua Meyer-Gutbrod at the University of South Carolina. I undertook the task of conceptualizing, building, and
-                                refining a dedicated website for this initiative with <a href="https://wordpress.com/" className="link">WordPress
-                                </a>, complemented by the utilization of <a href="https://archive-it.org/" className="link">ArchiveIt</a>.
+                                refining a dedicated website for this initiative with <a href="https://wordpress.com/" className="link" 
+                                target="_blank">WordPress</a>, complemented by the utilization of <a href="https://archive-it.org/" className="link"
+                                 target="_blank">ArchiveIt</a>.
                             </p>
 
                             <p className="text">
-                                Find the project <a href="http://digitalcampaignsproject.uofsccreate.org/" className="link">here</a>!
+                                Find the project <a href="http://digitalcampaignsproject.uofsccreate.org/" className="link" target="_blank"
+                                >here</a>!
                             </p>
                         </div>
                     </div>
@@ -61,7 +65,7 @@ export default function Projects() {
                                 headed user interface and experience design and assisted in backend development.
                             </p>
                             <p className="text">
-                                Find the project <a href="https://github.com/sophiariley/dreamscape" className="link">here</a>!
+                                Find the project <a href="https://github.com/sophiariley/dreamscape" className="link" target="_blank">here</a>!
                             </p>
                         </div>
                     </div>
@@ -79,7 +83,7 @@ export default function Projects() {
                                     life during a collaborative effort at a hackathon, where I worked alongside fellow peers.
                                 </p>
                                 <p className="text">
-                                    Find the project <a href="http://smartupsaveup.weebly.com/" className="link">here</a>!
+                                    Find the project <a href="http://smartupsaveup.weebly.com/" className="link" target="_blank">here</a>!
                                 </p>
                             </div>
                         </div>
