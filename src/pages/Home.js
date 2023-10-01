@@ -1,6 +1,6 @@
 import "./Home.css";
 import React from "react";
-import Logo from "../assets/images/logo 3.png"
+import Logo from "../assets/images/logo.png"
 import Headshot from "../assets/images/headshot.png"
 import Rainbow from "../assets/images/rainbow.png"
 // import Cowgal from "../assets/images/cowgal.png"
