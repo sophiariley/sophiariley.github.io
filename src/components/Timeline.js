@@ -13,10 +13,10 @@ export default function CustomizedTimeline() {
         iconStyle={{ background: '#F391A1'}}
         icon={<PiBrainBold style={{color: "white"}}/>}
         >
-            <h3 className="vertical-timeline-element-title">Digital Humanities Curator</h3>
+            <h3 className="vertical-timeline-element-title">Web Developer</h3>
             <h4 className="vertical-timeline-element-subtitle">University of South Carolina</h4>
             <p className="vertical-timeline-element-paragraph">
-                Worked with faculty and staff to digitize research into interactive websites using WordPress, R, HTML, and JavaScript. 
+                Worked with faculty and staff to digitize research into interactive websites using WordPress, scalar, ArchiveIt, and React.js. 
             </p>
         </VerticalTimelineElement>
 

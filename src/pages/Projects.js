@@ -18,15 +18,14 @@ export default function Projects() {
                             </h1>
                             <div className = "textContainer">
                                 <p className="text">
-                                    James T. McCain was an educator, civil rights leader, Field Director in CORE, and member of the NAACP from my home 
-                                    state of South Carolina. The South Caroliniana Library transcribed McCain's day planner from 1961, which detailed the work
+                                    James T. McCain was an educator, civil rights leader, Field Director in CORE, and member of the NAACP. The South Caroliniana Library transcribed McCain's day planner from 1961, which detailed the work
                                     he accomplished for the betterment of Civil Rights in the nation and state during the year. I delivered a new
-                                    visual identity and built a new website for this collection using <a href="https://scalar.me/anvc/scalar/" 
+                                    visual identity for this collection by building a website for it using <a href="https://scalar.me/anvc/scalar/" 
                                     className="link" target="_blank">Scalar</a>.
                                 </p>
 
                                 <p className="text">
-                                    Find the project <a href="http://grahamduncan.usccreate.org/james-t-mccain/home/index" className="link" 
+                                    This project is still a work in progress. You can find it in it's current state <a href="http://grahamduncan.usccreate.org/james-t-mccain/home/index" className="link" 
                                     target="_blank">here</a>!
                                 </p>
                             </div>
