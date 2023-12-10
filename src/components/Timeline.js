@@ -6,7 +6,6 @@ import { PiAmazonLogoBold, PiBrainBold, PiRainbowBold, PiGlobeBold, PiDevicesBol
 export default function CustomizedTimeline() {
   return (
     <VerticalTimeline className='container'> 
-    {/* ough */}
 
         <VerticalTimelineElement
         className="vertical-timeline-element"
@@ -17,7 +16,7 @@ export default function CustomizedTimeline() {
             <h3 className="vertical-timeline-element-title">Web Developer</h3>
             <h4 className="vertical-timeline-element-subtitle">University of South Carolina</h4>
             <p className="vertical-timeline-element-paragraph">
-                Worked with faculty and staff to digitize research into interactive websites using WordPress, scalar, ArchiveIt, and React.js. 
+                Worked with faculty and staff to digitize research into interactive websites using WordPress, Scalar, ArchiveIt, and React.js. 
             </p>
         </VerticalTimelineElement>
 
