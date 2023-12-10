@@ -6,6 +6,7 @@ import { PiAmazonLogoBold, PiBrainBold, PiRainbowBold, PiGlobeBold, PiDevicesBol
 export default function CustomizedTimeline() {
   return (
     <VerticalTimeline className='container'> 
+    {/* ough */}
 
         <VerticalTimelineElement
         className="vertical-timeline-element"
