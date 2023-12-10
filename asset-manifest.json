@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.9a1b7e99.css",
-    "main.js": "/static/js/main.d097d1ad.js",
+    "main.js": "/static/js/main.be21eb4a.js",
     "static/media/headshot.png": "/static/media/headshot.45a03a540656bb255bfd.png",
     "static/media/AkayaKanadaka-Regular.ttf": "/static/media/AkayaKanadaka-Regular.00285b03cbbe370b4c8a.ttf",
     "static/media/Alexandria-VariableFont_wght.ttf": "/static/media/Alexandria-VariableFont_wght.48122b6566da6755bd70.ttf",
-    "static/media/logo 3.png": "/static/media/logo 3.dda1db5fd8cc849f0550.png",
+    "static/media/logo.png": "/static/media/logo.dda1db5fd8cc849f0550.png",
     "static/media/rainbow.png": "/static/media/rainbow.5fa6a41f975176738f66.png",
     "static/media/squiggle.png": "/static/media/squiggle.9274219cfc5ab376b71f.png",
     "static/media/border.png": "/static/media/border.15324a91eb0e9dc7ca00.png",
     "index.html": "/index.html",
     "main.9a1b7e99.css.map": "/static/css/main.9a1b7e99.css.map",
-    "main.d097d1ad.js.map": "/static/js/main.d097d1ad.js.map"
+    "main.be21eb4a.js.map": "/static/js/main.be21eb4a.js.map"
   },
   "entrypoints": [
     "static/css/main.9a1b7e99.css",
-    "static/js/main.d097d1ad.js"
+    "static/js/main.be21eb4a.js"
   ]
 }
