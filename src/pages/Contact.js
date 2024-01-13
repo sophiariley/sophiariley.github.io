@@ -13,7 +13,7 @@ export default function Contact() {
 
             <div>
                 <p className = "textBody">
-                    I'm currently seeking entry level opportunities under the design and development umbrellas. But if you have other questions, please
+                    I'm currently seeking entry-level opportunities under the design and development umbrellas. But if you have other questions, please
                     don't hesitate to reach out!
                 </p>
             </div>
