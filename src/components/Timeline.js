@@ -29,7 +29,7 @@ export default function CustomizedTimeline() {
             <h3 className="vertical-timeline-element-title">Solutions Architect Intern</h3>
             <h4 className="vertical-timeline-element-subtitle">Amazon Web Services</h4>
             <p className="vertical-timeline-element-paragraph">
-                Curated an external workshop on AWS Workshop Studio detailing how to create and deploy a live streaming application with
+                Curated an external workshop on AWS Workshop Studio detailing how to create and deploy a live-streaming application with
                 targeted ads using Amazon Web Services. Updated the UI of said application using React.js.
             </p>
         </VerticalTimelineElement>
