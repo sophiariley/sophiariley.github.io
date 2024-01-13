@@ -38,7 +38,7 @@ export default function Projects() {
                         <div className = "textContainer">
                             <p className="text">
                                 The primary objective of the Digital Campaigns Project is to establish an enduring source of data by archiving 
-                                campaign websites belonging to state-level elected officials. To acheive this, I collaborated closely with Dr.
+                                campaign websites belonging to state-level elected officials. To achieve this, I collaborated closely with Dr.
                                 Joshua Meyer-Gutbrod at the University of South Carolina. I undertook the task of conceptualizing, building, and
                                 refining a dedicated website for this initiative with <a href="https://wordpress.com/" className="link" 
                                 target="_blank">WordPress</a>, complemented by the utilization of <a href="https://archive-it.org/" className="link"
@@ -58,8 +58,8 @@ export default function Projects() {
                         <h1 className="projectName">Dreamscape</h1>
                         <div className="textContainer">
                             <p className="text">
-                                Dreamscape is an Android application focused on bringing users together thorugh a shared love of travel. During 
-                                this project, I communicated with line of business to gather requirements and feedback on development work. I also
+                                Dreamscape is an Android application that brings users together through a shared love of travel. During 
+                                this project, I communicated with a line of business to gather requirements and feedback on development work. I also
                                 headed user interface and experience design and assisted in backend development.
                             </p>
                             <p className="text">
@@ -76,7 +76,7 @@ export default function Projects() {
                             <h1 className="projectName">Smart Up, Save Up</h1>
                             <div className="textContainer">
                                 <p className="text">
-                                    Smart up, Save Up is a web application created with the aim of tackling financial ignorance among teenagers. 
+                                    Smart up, Save Up is a web application created to tackle financial ignorance among teenagers. 
                                     It achieves this by involving them in a week-long educational program. This initiative was brought to
                                     life during a collaborative effort at a hackathon, where I worked alongside fellow peers.
                                 </p>
