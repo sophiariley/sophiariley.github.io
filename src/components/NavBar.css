@@ -62,3 +62,8 @@ body {
 .nav li.active {
     color: #FBDAE0;
 }
+
+
+.logo {
+    width:25%; 
+}

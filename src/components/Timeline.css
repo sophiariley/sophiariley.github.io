@@ -504,6 +504,9 @@
 }
 
 .container{
-    top: -325px;
-    position: relative;
+    top: -150px;
+    /* left: 200px; */
+    left: 11.5%;
+    /* align-self: center; */
+    
 }

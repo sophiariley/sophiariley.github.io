@@ -10,12 +10,6 @@
 
 /* --------------------------------------------------------- */
 
-.logo {
-    width:30%; 
-    padding-top: 4rem;
-    display: block;
-    margin: auto;
-}
 
 .title {
     margin: 0;
@@ -24,14 +18,14 @@
     font-size: 2.75rem;
     font-weight: 200;
     color: #F391A1;
-    padding: 0 3rem;
+    padding: 0 20rem;
     padding-top: 5rem;
 }
 
 .line{
     border-bottom: 2px solid #FBDAE0;
     position: relative;
-    left: 3rem;
+    left: 20rem;
     width: 30rem;
     top: 10px;
 }
@@ -42,28 +36,24 @@
 }
 
 .leftText {
-    margin: 0;
     font-family: "Alexandria";
     color: #625555;
-    padding: 0 3rem;
+    padding: 0 20rem;
     font-size: 1.5rem;
-    width: 100%;
+    margin-bottom: 15%;
+    width: 250%;
 }
 
 .headshot {
-    width: 90%;
-    float: right;
-    top: -125px;
-    right: -50px;
+    width: 150%;
+    /* float: right; */
+    top: -180px;
+    right: 110%;
     position: relative;
     z-index:1;
     
 }
 
-.testt {
-    position: relative;
-    bottom: 20px;
-}
 
 .rainbowCorner {
     width: 210px;
